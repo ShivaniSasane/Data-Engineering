@@ -1,5 +1,5 @@
 """
-Sales data
+Load Sales data in csv file as initial step. This file will be read by another job to perform some other actions.
 """
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
@@ -25,8 +25,8 @@ df_sales_us = df_sales_us.dropna(subset=["SalesKey","CustomerKey"])
 df_sales_us = df_sales_us.drop("Freight")
 df_sales_us = df_sales_us.filter(col("OrderDate") >= "2020-01-01")
 
-#df_sales_us.show()
-#df_sales_us.printSchema()
+df_sales_us.show()
+df_sales_us.printSchema()
 
 df_sales_us_count=df_sales_us.count()
 print("Count of Sales in US: ",df_sales_us_count)
@@ -49,8 +49,8 @@ df_sales_others = spark.read.option("header", False) \
 df_sales_others = df_sales_others.dropna(subset=["SalesKey","CustomerKey"])
 df_sales_others = df_sales_others.filter(col("OrderDate") >= "2020-01-01")
 
-#df_sales_others.show()
-#df_sales_others.printSchema()
+df_sales_others.show()
+df_sales_others.printSchema()
 
 df_sales_others_count=df_sales_others.count()
 print("Count of Sales in other countries: ",df_sales_others_count)
@@ -63,6 +63,6 @@ df_sales_count=df_sales.count()
 print("Count of Sales in all countries: ",df_sales_count)
 
 #write data to csv file
-#df_output.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/sales-csv")
+df_sales.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/sales-csv")
 
 spark.stop()
