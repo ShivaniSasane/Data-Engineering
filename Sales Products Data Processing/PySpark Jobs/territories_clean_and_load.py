@@ -1,5 +1,5 @@
 """
-Territories Data
+Clean and load Sales Territories Data
 """
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
@@ -14,7 +14,6 @@ sales_territories_schema =StructType([StructField("TerritoryKey",IntegerType(), 
                              ])
 
 # Read and clean other countries sales data and display number of records
-
 dimensions_path="D:/Data/Dimensions"
 
 df_sales_territories = spark.read.option("header", False) \
@@ -31,8 +30,7 @@ df_sales_territory.show()
 df_sales_territories_count=df_sales_territories.count()
 print("Count of sales territories: ",df_sales_territories_count)
 
-
 #write data to csv file
-#df_output.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/territories-csv")
+df_sales_territory.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/territories-csv")
 
 spark.stop()
