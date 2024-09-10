@@ -1,5 +1,5 @@
 """
-Customers data
+Clean and load Customers data in csv
 """
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
@@ -34,6 +34,6 @@ df_customers_count=df_customers.count()
 print("Count of Customers in all countries: ",df_customers_count)
 
 #write data to csv file
-#df_output.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/customers-csv")
+df_customers.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/customers-csv")
 
 spark.stop()
