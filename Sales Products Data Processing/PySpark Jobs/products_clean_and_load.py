@@ -1,5 +1,5 @@
 """
-Products data
+Clean, join and load Products data into csv
 """
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
@@ -18,8 +18,8 @@ df_product_rollup = df_product_rollup.filter(~col("ProductSubcategory_right").li
 df_product_rollup = df_product_rollup.dropna(subset=["ProductCategory"])
 df_product_rollup = df_product_rollup.withColumn("ProductSubcategory_right",initcap("ProductSubcategory_right"))
 
-#df_product_rollup.printSchema()
-#df_product_rollup.show()
+df_product_rollup.printSchema()
+df_product_rollup.show()
 
 df_product_rollup_count=df_product_rollup.count()
 print("Count of product rollups: ",df_product_rollup_count)
@@ -53,13 +53,13 @@ print("Count of products : ",df_products_count)
 df_products_joined = df_products.join(df_product_rollup, df_products.ProductSubCategory == df_product_rollup.ProductSubcategory_right, "left")
 df_products_joined = df_products_joined.drop("ProductSubcategory_right").distinct()
 
-df_products_joined.show()
+#df_products_joined.show()
 
 df_products_joined_count=df_products_joined.count()
 print("Count of joined distinct products: ",df_products_joined_count)
 
 
 #write data to csv file
-#df_output.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/products-csv")
+df_products_joined.coalesce(1).write.mode("overwrite").option("header", True).csv("D:/Data/products-csv")
 
 spark.stop()
