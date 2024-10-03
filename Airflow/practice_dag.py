@@ -5,7 +5,7 @@ from airflow.operators.python import PythonOperator
 from airflow.utils.helpers import chain
 
 
-#@dag(description='sample desc', start_date=datetime(2025,2,23),tags=['sample'], schedule='@daily',catch=False)
+#@dag(description='sample desc', start_date=datetime(2024,7,23),tags=['sample'], schedule='@daily',catch=False)
 #def sample_dag():
 #    None
 #sample_dag()
@@ -29,7 +29,7 @@ def print_fourth():
 def print_fifth():
     print("Fifth function to call")
 
-with DAG('practice_dag', start_date=datetime(2025,2,23),   # if we don't use with context manager, then we have to use dag=dag in every task below
+with DAG('practice_dag', start_date=datetime(2024,7,23),   # if we don't use with context manager, then we have to use dag=dag in every task below
          default_args=default_args, # we can skip this and write separate args in tasks
          description='Sample Dag from tutorial',
          tags=['sample'],

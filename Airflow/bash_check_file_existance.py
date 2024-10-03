@@ -1,12 +1,13 @@
+#Check use of BashOperator
 from airflow import DAG
 from datetime import datetime
 from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
-#from airflow.utils.helpers import chain
+from datetime import timedelta
 
-with DAG("check_file_existance", start_date=datetime(2025,2,23),
+with DAG("check_file_existance", start_date=datetime(2024,8,15),
          description="Check if file exists using bash",
-         schedule='@daily',
+         schedule = timedelta(weeks=2),
          tags=['Data Engineering'],
          catchup=False
          ):
