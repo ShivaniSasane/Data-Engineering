@@ -12,4 +12,4 @@ def cli_test_task():
         return 42
 
     my_task(80)
-cli()
+cli_test_task()
