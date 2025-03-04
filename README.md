@@ -10,7 +10,11 @@
 ##### 1. Medicare Project
 ##### 2. Retail Databricks Project
 ##### 3. Sales Products Data Processing
+##### 4. Inflation Analysis Project
 
 #### References: 
 ##### Data sourced from websites https://data.cms.gov/ and https://learn.microsoft.com/en-us/power-bi/
+##### The primary dataset for inflation analysis project was retrieved from the World Bank https://www.worldbank.org/en/research/brief/inflation-database
 
+#### Acknowledgment:
+##### I sincerely thank the above teams for providing the core data used in the datasets.
