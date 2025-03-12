@@ -74,3 +74,11 @@ dbutils.widgets.dropdown("dropdown_filter", "IND", choices=distinct_values_list,
 
 from pyspark.sql.functions import col
 display(df_transform.filter(col('Country_Code')==dbutils.widgets.get('dropdown_filter')))
+
+# COMMAND ----------
+
+df_transform.coalesce(1).write.format("csv").option("header", "true").mode("overwrite").save("/Volumes/workspace/inflation_schema/inflation_volume/output/silver_transformed.csv")
+
+# COMMAND ----------
+
+df_transform.coalesce(1).write.format("parquet").mode("overwrite").save("/Volumes/workspace/inflation_schema/inflation_volume/output/parquet_silver_transformed.parquet")

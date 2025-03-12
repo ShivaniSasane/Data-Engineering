@@ -39,3 +39,14 @@ dbutils.widgets.dropdown("dropdown_filter_country", "IND", choices=distinct_valu
 
 from pyspark.sql.functions import col
 display(df_rounded.filter(col('Country_Code')==dbutils.widgets.get('dropdown_filter_country')))
+
+# COMMAND ----------
+
+df_rounded.coalesce(1).write.format("csv").option("header", "true").mode("overwrite").save("/Volumes/workspace/inflation_schema/inflation_volume/output/gold_transformed.csv")
+
+# COMMAND ----------
+
+df_rounded.coalesce(1).write.format("parquet").mode("overwrite").save("/Volumes/workspace/inflation_schema/inflation_volume/output/parquet_gold_transformed.parquet")
+
+# COMMAND ----------
+

@@ -1,0 +1,409 @@
+Country_Code,Country,Indicator_Type,2020Avg,2021Avg,2023Avg
+ISL,Iceland,Rate,3.4,6.0,6.0
+SGP,Singapore,Inflation,-1.14,4.28,-12.98
+MEX,Mexico,Rate,3.1,5.2,4.3
+TTO,Trinidad and Tobago,Rate,0.6,17.5,-8.3
+MMR,Myanmar,Inflation,8.83,4.7,9.03
+KEN,Kenya,Rate,8.2,5.0,7.3
+RUS,Russian Federation,Inflation,1.9,10.52,2.3
+DJI,Djibouti,Inflation,2.3,0.22,0.45
+MEX,Mexico,Inflation,4.12,7.52,3.62
+ISR,Israel,Rate,0.9,2.1,3.7
+SMR,San Marino,Inflation,0.1,0.4,3.05
+PRT,Portugal,Rate,2.5,1.4,7.2
+BDI,Burundi,Inflation,7.0,8.83,26.7
+FSM,"Micronesia, Fed. Sts.",Rate,0.5,2.3,6.2
+PNG,Papua New Guinea,Rate,1.0,12.7,-2.3
+BRN,Brunei Darussalam,Rate,-10.8,15.5,-12.3
+DZA,Algeria,Rate,-4.7,15.7,-0.4
+KGZ,Kyrgyz Republic,Rate,5.9,16.0,11.6
+BGR,Bulgaria,Inflation,1.54,6.58,6.28
+ETH,Ethiopia,Rate,18.2,21.8,32.2
+CZE,Czech Republic,Rate,3.2,3.3,8.7
+NIC,Nicaragua,Inflation,4.2,5.4,6.1
+GNQ,Equatorial Guinea,Rate,-10.1,18.2,-9.6
+ABW,Aruba,Rate,-1.3,2.2,5.5
+DNK,Denmark,Inflation,-0.1,5.76,0.96
+MDA,"Moldova, Rep.",Inflation,2.6,8.7,13.1
+PLW,Palau,Rate,1.0,-0.2,7.3
+MNG,Mongolia,Inflation,1.45,7.27,9.1
+GUY,Guyana,Rate,-22.3,22.5,-11.7
+MYS,Malaysia,Inflation,-0.66,3.16,2.22
+AUT,Austria,Rate,1.1,1.9,7.6
+SSD,South Sudan,Inflation,29.7,30.2,2.4
+GAB,Gabon,Rate,-7.4,25.3,-7.2
+HTI,Haiti,Rate,22.9,19.3,44.5
+PER,Peru,Rate,4.1,8.4,7.1
+NER,Niger,Rate,2.8,3.1,2.8
+MDG,Madagascar,Rate,4.2,7.4,7.4
+MLI,Mali,Rate,2.0,2.5,3.0
+GMB,"Gambia, The",Inflation,4.15,9.13,17.13
+KOR,"Korea, Rep.",Rate,1.3,2.5,1.6
+IDN,Indonesia,Rate,-0.5,6.0,2.8
+COL,Colombia,Inflation,2.48,5.82,11.64
+MDV,Maldives,Inflation,-1.13,1.13,3.0
+CMR,Cameroon,Inflation,2.73,2.48,8.18
+AZE,Azerbaijan,Inflation,-3.14,20.04,2.7
+COM,Comoros,Rate,1.2,0.1,2.9
+VEN,"Venezuela, RB",Inflation,915.4,932.12,191.8
+IRL,Ireland,Inflation,-2.22,3.06,4.86
+IND,India,Rate,4.6,10.0,2.3
+CYM,Cayman Islands,Inflation,1.0,0.8,0.0
+TGO,Togo,Rate,1.1,1.7,2.8
+KWT,Kuwait,Inflation,-4.66,14.08,0.52
+XKX,Kosovo,Inflation,-0.3,2.45,0.0
+MTQ,Martinique,Inflation,0.0,0.0,0.0
+AUT,Austria,Inflation,1.28,5.2,6.9
+MWI,Malawi,Inflation,9.43,3.1,28.8
+FJI,Fiji,Inflation,-2.07,3.23,-0.03
+AND,Andorra,Rate,0.0,0.0,4.9
+PRY,Paraguay,Rate,3.0,7.1,2.5
+MLI,Mali,Inflation,1.2,2.7,1.63
+GRC,Greece,Rate,-1.5,1.3,4.9
+LBN,Lebanon,Rate,60.9,150.0,0.0
+KHM,Cambodia,Rate,1.8,1.3,3.2
+MAC,"Macao SAR, China",Inflation,0.4,0.0,0.45
+TKM,Turkmenistan,Rate,3.9,11.8,-3.0
+PAN,Panama,Inflation,-1.63,-0.15,3.83
+ARE,United Arab Emirates,Inflation,-0.7,-1.13,0.53
+DEU,Germany,Rate,1.6,3.1,6.6
+PAK,Pakistan,Rate,10.3,10.2,26.2
+DZA,Algeria,Inflation,1.0,6.55,6.03
+ESP,Spain,Inflation,-0.88,8.3,0.14
+ESP,Spain,Rate,1.1,2.3,6.0
+TON,Tonga,Rate,0.2,-1.9,10.0
+SWZ,Swaziland,Rate,4.1,-0.9,9.0
+JOR,Jordan,Rate,-0.5,1.3,2.6
+PHL,Philippines,Rate,1.8,2.3,4.9
+TZA,Tanzania,Rate,3.5,4.4,7.0
+ARM,Armenia,Rate,1.8,6.9,2.8
+XKX,Kosovo,Rate,2.2,6.1,0.0
+SDN,Sudan,Inflation,3488.06,292.32,78.58
+PAN,Panama,Rate,-3.4,2.2,1.5
+MDG,Madagascar,Inflation,4.2,5.23,8.57
+TJK,Tajikistan,Inflation,2.6,3.52,3.06
+LCA,St. Lucia,Rate,-1.8,-0.6,4.2
+TUN,Tunisia,Rate,6.1,4.5,10.5
+NPL,Nepal,Rate,4.1,5.5,7.1
+SLE,Sierra Leone,Inflation,6.38,9.35,33.88
+BLR,Belarus,Rate,10.1,13.1,7.3
+GNQ,Equatorial Guinea,Inflation,3.87,-0.43,2.3
+DEU,Germany,Inflation,0.74,5.32,5.7
+MAR,Morocco,Inflation,0.16,1.88,4.0
+BHS,"Bahamas, The",Rate,-1.0,1.6,2.7
+RUS,Russian Federation,Rate,0.7,16.5,4.3
+FIN,Finland,Inflation,-0.48,5.36,3.36
+LBR,Liberia,Rate,2.0,9.9,5.6
+GBR,United Kingdom,Inflation,0.8,3.84,7.06
+GRC,Greece,Inflation,0.2,5.6,0.22
+HRV,Croatia,Rate,1.0,2.0,8.7
+PHL,Philippines,Inflation,1.08,2.58,3.76
+NLD,Netherlands,Rate,2.2,2.5,7.8
+SLV,El Salvador,Inflation,-0.42,3.36,3.2
+UKR,Ukraine,Inflation,0.76,18.22,10.06
+CRI,Costa Rica,Rate,0.5,2.0,-0.1
+YEM,"Yemen, Rep.",Rate,24.6,48.7,-2.9
+MUS,Mauritius,Rate,3.8,3.3,6.4
+MHL,Marshall Islands,Rate,1.1,6.2,6.7
+PRI,Puerto Rico,Rate,-1.3,3.2,2.8
+ALB,Albania,Inflation,0.92,2.6,1.14
+VNM,Vietnam,Inflation,3.1,1.02,3.48
+TZA,"Tanzania, United Rep.",Inflation,0.0,0.0,0.0
+LBY,Libya,Inflation,7.43,0.93,0.87
+LBR,Liberia,Inflation,3.97,2.6,0.87
+SGP,Singapore,Rate,-2.9,4.0,0.3
+MKD,"Macedonia, FYR",Inflation,1.87,3.0,9.03
+FRA,France,Rate,2.2,1.3,5.5
+BGD,Bangladesh,Rate,5.1,4.1,5.4
+TZA,Tanzania,Inflation,4.03,4.03,3.6
+ERI,Eritrea,Inflation,4.9,6.6,9.2
+COG,"Congo, Rep.",Inflation,1.08,1.83,2.97
+DOM,Dominican Republic,Rate,4.5,7.8,6.5
+KAZ,Kazakhstan,Rate,0.5,13.9,9.3
+LUX,Luxembourg,Inflation,0.42,7.02,3.04
+KOR,"Korea, Rep.",Inflation,1.0,4.76,2.94
+ECU,Ecuador,Inflation,-0.02,0.02,2.2
+HRV,Croatia,Inflation,-1.32,4.52,6.5
+HTI,Haiti,Inflation,22.43,16.67,38.77
+ITA,Italy,Inflation,9.94,4.72,3.58
+SUR,Suriname,Rate,29.9,56.1,51.4
+DOM,Dominican Republic,Inflation,4.0,7.63,4.33
+IND,India,Inflation,4.78,5.06,4.1
+AGO,Angola,Rate,15.0,33.6,13.4
+HKG,"Hong Kong SAR, China",Inflation,0.37,1.13,1.13
+VUT,Vanuatu,Inflation,3.2,2.1,4.33
+CYP,Cyprus,Inflation,-2.4,4.4,4.0
+ARE,United Arab Emirates,Rate,-10.6,14.3,-2.6
+TUN,Tunisia,Inflation,4.72,6.4,7.38
+MAC,"Macao SAR, China",Rate,0.0,-0.6,1.7
+LBN,Lebanon,Inflation,86.65,128.78,164.1
+MRT,Mauritania,Inflation,1.77,3.97,1.63
+NAM,Namibia,Inflation,2.13,3.53,6.7
+NIC,Nicaragua,Rate,3.7,3.3,10.7
+LSO,Lesotho,Inflation,4.47,7.5,-5.03
+TON,Tonga,Inflation,0.87,4.87,5.67
+AUS,Australia,Inflation,1.26,5.74,4.94
+NRU,Nauru,Inflation,0.9,1.2,6.2
+BEL,Belgium,Inflation,-0.08,6.64,-0.44
+SYC,Seychelles,Rate,3.6,2.7,-0.9
+AGO,Angola,Inflation,23.1,25.83,15.03
+CRI,Costa Rica,Inflation,0.9,2.92,-1.44
+IRL,Ireland,Rate,0.6,0.7,3.0
+SMR,San Marino,Rate,1.2,0.9,4.1
+HUN,Hungary,Rate,5.4,6.3,14.4
+LSO,Lesotho,Rate,4.7,-0.9,0.3
+ISR,Israel,Inflation,-0.96,3.18,3.66
+VGB,British Virgin Islands,Inflation,0.08,1.38,0.0
+GNB,Guinea-Bissau,Rate,0.1,6.2,7.2
+TLS,Timor-Leste,Rate,1.2,59.3,8.0
+JAM,Jamaica,Rate,4.3,7.4,9.2
+YEM,"Yemen, Rep.",Inflation,13.1,22.85,-0.6
+BRA,Brazil,Inflation,6.92,14.22,1.7
+CHE,Switzerland,Rate,-0.6,1.1,1.0
+BIH,Bosnia and Herzegovina,Rate,-0.4,4.9,12.3
+IDN,Indonesia,Inflation,2.15,1.53,13.18
+LAO,Lao PDR,Inflation,4.93,3.27,30.2
+NZL,New Zealand,Inflation,6.28,4.72,4.78
+SAU,Saudi Arabia,Rate,-7.7,14.8,-4.6
+GAB,Gabon,Inflation,0.8,0.68,2.83
+GTM,Guatemala,Rate,2.3,2.8,6.6
+SEN,Senegal,Rate,2.1,2.4,1.1
+HND,Honduras,Rate,4.3,3.8,6.2
+GHA,Ghana,Inflation,9.36,10.22,30.88
+KAZ,Kazakhstan,Inflation,3.78,13.16,8.94
+SWE,Sweden,Inflation,0.7,6.32,4.16
+BIH,Bosnia and Herzegovina,Inflation,-0.43,3.1,8.23
+NOR,Norway,Rate,-3.7,16.9,-10.1
+PRT,Portugal,Inflation,-0.4,3.8,1.7
+SVK,Slovak Republic,Rate,2.5,2.4,10.1
+CAF,Central African Republic,Inflation,0.58,3.2,0.75
+SLB,Solomon Islands,Rate,3.8,4.0,3.9
+JOR,Jordan,Inflation,-1.3,3.46,1.88
+LIE,Liechtenstein,Inflation,-0.7,0.5,6.4
+CHN,China,Rate,0.3,4.4,-0.6
+FJI,Fiji,Rate,-2.6,-3.4,4.4
+AFG,Afghanistan,Rate,5.3,0.5,0.0
+USA,United States,Inflation,1.38,8.36,2.4
+AUS,Australia,Rate,0.9,2.8,3.7
+BRA,Brazil,Rate,4.8,11.1,4.7
+MOZ,Mozambique,Inflation,-5.18,8.53,5.38
+ERI,Eritrea,Rate,5.9,1.3,0.0
+EST,Estonia,Inflation,-0.86,8.04,7.86
+NLD,Netherlands,Inflation,1.48,6.84,-0.18
+EST,Estonia,Rate,-0.4,6.0,8.2
+CHN,China,Inflation,2.08,0.7,0.14
+SLB,Solomon Islands,Inflation,1.5,-0.05,2.25
+ECU,Ecuador,Rate,-3.3,2.6,-0.4
+MKD,"Macedonia, FYR",Rate,0.9,3.5,3.5
+BFA,Burkina Faso,Inflation,1.4,4.2,3.03
+SYR,Syrian Arab Republic,Rate,0.0,0.0,0.0
+TCD,Chad,Rate,-2.8,7.2,-0.5
+FRA,France,Inflation,0.28,4.48,5.88
+THA,Thailand,Inflation,-0.42,0.82,2.04
+CHL,Chile,Inflation,3.44,6.84,5.16
+NPL,Nepal,Inflation,5.03,3.37,7.2
+MAR,Morocco,Rate,0.9,3.2,4.2
+FSM,"Micronesia, Fed. Sts.",Inflation,0.5,2.1,6.2
+SSD,South Sudan,Rate,16.1,29.2,58.0
+LBY,Libya,Rate,35.8,110.4,-5.3
+CUW,Curacao,Inflation,0.0,0.0,0.0
+SYR,Syrian Arab Republic,Inflation,0.03,0.0,0.0
+VNM,Vietnam,Rate,0.4,2.8,1.9
+KHM,Cambodia,Inflation,2.87,2.9,1.93
+ROU,Romania,Rate,3.2,5.4,11.8
+PER,Peru,Inflation,1.38,4.14,2.04
+VEN,"Venezuela, RB",Rate,2355.1,1221.5,325.2
+HKG,"Hong Kong SAR, China",Rate,0.8,0.9,3.1
+CHL,Chile,Rate,8.3,7.6,7.4
+URY,Uruguay,Inflation,8.26,7.38,2.92
+MMR,Myanmar,Rate,6.0,4.8,18.1
+MNE,Montenegro,Rate,0.0,5.3,9.1
+QAT,Qatar,Inflation,-7.46,13.24,-2.02
+SVK,Slovakia,Inflation,0.35,5.45,9.1
+MYS,Malaysia,Rate,-0.8,5.7,-2.2
+ARG,Argentina,Inflation,37.85,45.88,128.05
+ARM,Armenia,Inflation,1.34,7.36,1.12
+KGZ,Kyrgyz Republic,Inflation,9.5,10.74,41.7
+GMB,"Gambia, The",Rate,7.2,7.8,14.2
+SRB,Serbia,Rate,1.8,5.9,12.3
+BHS,"Bahamas, The",Inflation,0.1,2.67,2.87
+BHR,Bahrain,Rate,-6.9,9.5,-6.3
+CYP,Cyprus,Rate,-0.7,2.9,4.6
+BHR,Bahrain,Inflation,-0.47,-0.67,2.17
+ARG,Argentina,Rate,39.8,54.2,112.3
+ATG,Antigua and Barbuda,Rate,1.1,2.0,5.0
+THA,Thailand,Rate,-1.0,1.9,1.2
+XXK,Kosovo,Inflation,0.2,3.4,4.9
+SEN,Senegal,Inflation,1.24,4.04,4.66
+PRI,Puerto Rico,Inflation,-1.3,2.4,0.0
+SUR,Suriname,Inflation,31.07,58.73,52.63
+COD,"Congo, Dem. Rep.",Inflation,3.83,3.0,6.63
+SOM,Somalia,Rate,1.0,7.7,9.0
+MUS,Mauritius,Inflation,2.54,4.24,6.84
+STP,S�o Tom� and Principe,Inflation,5.37,2.7,7.97
+NOR,Norway,Inflation,-1.2,17.1,-0.92
+ZAF,South Africa,Rate,5.3,6.2,4.4
+PRY,Paraguay,Inflation,1.96,5.92,3.72
+BTN,Bhutan,Rate,4.1,4.7,4.5
+KIR,Kiribati,Rate,2.4,3.3,3.4
+ABW,Aruba,Inflation,3.63,0.67,1.13
+POL,Poland,Rate,4.1,5.1,11.0
+BGR,Bulgaria,Rate,2.0,7.1,8.2
+ZWE,Zimbabwe,Rate,569.0,113.3,812.2
+BRB,Barbados,Inflation,4.27,2.9,3.77
+ZWE,Zimbabwe,Inflation,488.2,91.37,73.6
+LCA,St. Lucia,Inflation,-2.2,3.03,2.7
+TLS,Timor-Leste,Inflation,0.5,3.8,8.4
+JPN,Japan,Inflation,0.78,1.56,2.54
+BRB,Barbados,Rate,1.7,3.9,4.8
+HUN,Hungary,Inflation,3.86,7.54,16.78
+PNG,Papua New Guinea,Inflation,2.38,3.7,0.7
+CAN,Canada,Rate,0.8,8.1,1.1
+TUV,Tuvalu,Inflation,1.6,2.9,6.2
+GEO,Georgia,Rate,5.8,10.3,2.5
+CAN,Canada,Inflation,1.08,8.14,2.4
+GNB,Guinea-Bissau,Inflation,0.5,2.83,11.3
+STP,S�o Tom� and Principe,Rate,4.0,5.3,17.1
+SHN,Saint Helena,Inflation,1.1,1.3,2.6
+ZMB,Zambia,Rate,17.1,27.6,6.7
+CHE,Switzerland,Inflation,-0.32,1.84,3.34
+VCT,St. Vincent and the Grenadines,Inflation,-0.47,2.13,5.03
+NGA,Nigeria,Rate,7.8,10.1,11.7
+PSE,West Bank and Gaza,Inflation,-0.7,1.2,5.9
+LVA,Latvia,Rate,0.1,6.9,5.6
+TCA,Turks and Caicos Islands,Inflation,2.3,0.0,0.0
+ALB,Albania,Rate,1.4,5.9,5.2
+TCD,Chad,Inflation,4.93,-0.75,3.43
+COD,"Congo, Dem. Rep.",Rate,13.4,15.0,17.1
+UGA,Uganda,Inflation,3.2,3.62,5.1
+MKD,North Macedonia,Inflation,0.75,6.75,4.65
+SLV,El Salvador,Rate,-0.4,6.1,3.3
+BWA,Botswana,Inflation,3.57,6.9,5.87
+GRD,Grenada,Rate,-0.5,2.8,2.9
+LAO,"Lao, PDR",Inflation,2.3,3.8,0.0
+FIN,Finland,Rate,1.6,2.5,4.8
+DMA,Dominica,Rate,-0.3,3.0,3.5
+TWN,"Taiwan, China",Inflation,-3.8,5.6,1.0
+SAU,Saudi Arabia,Inflation,3.76,4.62,1.06
+EGY,"Egypt, Arab Rep.",Inflation,0.96,6.3,33.66
+KEN,Kenya,Inflation,3.78,6.68,4.35
+LKA,Sri Lanka,Inflation,5.8,7.14,16.88
+KIR,Kiribati,Inflation,2.5,3.0,9.3
+NAM,Namibia,Rate,3.5,1.7,7.0
+DMA,Dominica,Inflation,-0.47,0.53,3.87
+BDI,Burundi,Rate,6.0,9.9,33.1
+BTN,Bhutan,Inflation,5.1,8.35,4.03
+ROU,Romania,Inflation,0.8,8.52,8.5
+WSM,Samoa,Rate,0.3,-0.4,8.8
+UZB,Uzbekistan,Inflation,9.23,11.47,12.93
+VUT,Vanuatu,Rate,1.8,0.7,11.3
+URY,Uruguay,Rate,8.5,10.0,4.2
+LTU,Lithuania,Inflation,-1.14,6.98,6.3
+WSM,Samoa,Inflation,-2.93,1.17,8.33
+COM,Comoros,Inflation,1.0,-0.07,2.83
+BLZ,Belize,Inflation,0.6,3.3,5.63
+CIV,C�te d'Ivoire,Inflation,3.17,5.27,5.07
+NER,Niger,Inflation,0.8,3.97,4.47
+UKR,Ukraine,Rate,7.4,25.1,20.2
+RWA,Rwanda,Rate,8.3,2.7,14.2
+VCT,St. Vincent and the Grenadines,Rate,-0.5,2.3,3.5
+NIU,Niue,Inflation,0.0,0.0,8.6
+DJI,Djibouti,Rate,2.9,4.5,0.9
+BEL,Belgium,Rate,0.9,2.9,3.8
+SDN,Sudan,Rate,164.2,235.5,210.4
+SVN,Slovenia,Rate,1.3,2.6,9.0
+HND,Honduras,Inflation,3.15,3.82,6.65
+OMN,Oman,Inflation,-2.58,4.52,0.9
+MLT,Malta,Inflation,0.64,1.22,3.64
+TUV,Tuvalu,Rate,2.4,2.0,6.3
+BLZ,Belize,Rate,0.1,4.0,4.4
+AZE,Azerbaijan,Rate,-7.3,21.2,-8.8
+ZMB,Zambia,Inflation,12.68,17.05,7.82
+IRN,"Iran, Islamic Rep.",Inflation,24.26,33.34,34.42
+KNA,St. Kitts and Nevis,Inflation,0.17,0.3,2.7
+JPN,Japan,Rate,0.9,-0.9,3.6
+TJK,Tajikistan,Rate,2.1,7.9,3.0
+TTO,Trinidad and Tobago,Inflation,1.64,1.6,5.98
+AFG,Afghanistan,Inflation,2.8,1.28,0.0
+SWZ,Swaziland,Inflation,6.27,1.23,1.63
+HKG,Hong Kong SAR,Inflation,3.3,1.4,2.7
+MNE,Montenegro,Inflation,0.33,1.8,6.32
+RWA,Rwanda,Inflation,6.78,0.82,14.9
+ZAF,South Africa,Inflation,3.42,7.04,5.4
+GHA,Ghana,Rate,8.6,11.2,36.3
+SRB,Serbia,Inflation,1.13,5.02,11.38
+SWE,Sweden,Rate,1.4,3.0,5.7
+BOL,Bolivia,Inflation,0.0,0.5,2.93
+LVA,Latvia,Inflation,-0.1,6.2,7.92
+ISL,Iceland,Inflation,7.22,6.24,6.92
+USA,United States,Rate,1.2,4.5,3.7
+MDV,Maldives,Rate,-1.6,1.7,2.6
+MDA,Moldova,Inflation,4.0,4.43,22.53
+SOM,Somalia,Inflation,0.0,0.0,0.0
+GIN,Guinea,Inflation,9.8,11.43,20.0
+GRD,Grenada,Inflation,-0.33,1.37,3.83
+QAT,Qatar,Rate,-14.7,22.5,-2.4
+OMN,Oman,Rate,-11.6,12.7,-6.1
+CPV,Cabo Verde,Inflation,1.43,1.47,2.17
+BFA,Burkina Faso,Rate,2.2,-0.8,1.4
+GBR,United Kingdom,Rate,5.7,0.4,8.3
+CZE,Czech Republic,Inflation,2.86,3.36,11.48
+MOZ,Mozambique,Rate,3.8,3.5,9.5
+POL,Poland,Inflation,3.8,6.5,10.14
+GIN,Guinea,Rate,10.9,11.5,8.8
+NRU,Nauru,Rate,2.2,2.8,7.2
+COG,"Congo, Rep.",Rate,-13.2,25.6,-3.2
+BLR,Belarus,Inflation,4.32,10.16,3.42
+SLE,Sierra Leone,Rate,13.9,6.7,40.3
+SYC,Seychelles,Inflation,4.73,7.23,-0.33
+ATG,Antigua and Barbuda,Inflation,1.9,1.4,6.05
+MRT,Mauritania,Rate,7.8,12.6,1.5
+ETH,Ethiopia,Inflation,12.72,14.9,17.7
+CAF,Central African Republic,Rate,2.0,3.3,3.4
+NGA,Nigeria,Inflation,12.08,15.3,22.8
+BEN,Benin,Rate,1.5,-1.5,2.5
+IRQ,Iraq,Rate,-12.5,33.4,-9.7
+NZL,New Zealand,Rate,4.1,4.3,6.5
+KNA,St. Kitts and Nevis,Rate,-1.6,-1.8,6.1
+GTM,Guatemala,Inflation,2.38,3.38,5.02
+JAM,Jamaica,Inflation,4.78,7.7,4.18
+TWN,Taiwan Province of China,Rate,1.3,2.9,2.5
+MWI,Malawi,Rate,8.5,8.5,28.6
+MSR,Montserratit,Inflation,-1.9,1.7,0.0
+UZB,Uzbekistan,Rate,11.9,13.6,12.2
+SVN,Slovenia,Inflation,0.56,3.88,7.12
+BOL,Bolivia,Rate,3.6,4.0,-0.8
+TUR,Turkey,Inflation,12.36,25.56,37.54
+MLT,Malta,Rate,0.9,1.8,5.3
+LAO,Lao PDR,Rate,6.2,3.7,24.3
+NCL,New Caledonia,Inflation,-0.72,3.97,0.43
+MDA,Moldova,Rate,2.5,3.3,9.3
+MNG,Mongolia,Rate,4.7,14.4,21.5
+BGD,Bangladesh,Inflation,4.83,4.3,8.68
+CIV,C�te d'Ivoire,Rate,0.6,2.8,1.9
+GUY,Guyana,Inflation,0.35,1.65,1.4
+ITA,Italy,Rate,1.2,0.5,5.3
+MHL,Marshall Islands,Inflation,0.6,2.6,6.8
+COL,Colombia,Rate,1.4,6.5,7.1
+TUR,Turkey,Rate,14.7,29.0,69.0
+SVK,Slovak Republic,Inflation,2.33,1.67,11.73
+TGO,Togo,Inflation,2.0,5.0,5.27
+LKA,Sri Lanka,Rate,3.4,8.1,18.6
+LTU,Lithuania,Rate,0.8,6.5,7.2
+CPV,Cabo Verde,Rate,0.9,2.3,4.3
+UGA,Uganda,Rate,4.3,2.5,13.4
+PAK,Pakistan,Inflation,9.28,12.0,29.03
+BEN,Benin,Inflation,2.13,3.3,4.4
+IRQ,Iraq,Inflation,0.28,4.8,3.65
+BMU,Bermuda,Rate,-0.4,0.4,0.0
+CMR,Cameroon,Rate,1.3,3.4,2.0
+BWA,Botswana,Rate,0.7,2.5,2.3
+GEO,Georgia,Inflation,7.1,11.02,2.5
+IRN,"Iran, Islamic Rep.",Rate,33.8,56.3,33.7
+DNK,Denmark,Rate,2.0,2.8,-3.1
+EGY,"Egypt, Arab Rep.",Rate,5.6,4.8,-19.9
+KWT,Kuwait,Rate,-12.0,25.4,-10.7
+BRN,Brunei Darussalam,Inflation,1.23,1.3,1.13
+LUX,Luxembourg,Rate,2.3,6.2,3.6
+TKM,Turkmenistan,Inflation,3.8,7.5,-0.85
+PLW,Palau,Inflation,0.2,0.5,12.7
