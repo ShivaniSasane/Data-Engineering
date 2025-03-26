@@ -1,8 +1,9 @@
 ## Data-Engineering
 
 #### About me:
-##### Data Engineer working on multiple projects using tech stack PySpark, AWS, Apache Airflow, Databricks, Snowflake, Python, PostgreSQL, SQL
+##### Data Engineer working on multiple projects using tech stack PySpark, AWS, Apache Airflow, Databricks, Snowflake, Python, PostgreSQL, SQL. 
 
+##### Details for each project is mentioned in separate readme file inside respective folders
 ##### Created Directed Acyclic Graphs (DAGs) for data orchestration.
 ##### Developed data pipelines in PySpark, applied data cleaning techniques and orchestrated using Apache Airflow. Using this platform for practice purpose and creating private projects.
 
@@ -11,6 +12,12 @@
 ##### 2. Retail Databricks Project
 ##### 3. Sales Products Data Processing
 ##### 4. Inflation Analysis Project
+
+#### Tools & Technologies
+- Python 
+- SQL 
+- Databricks
+- Power BI
 
 #### References: 
 ##### Data sourced from websites https://data.cms.gov/ and https://learn.microsoft.com/en-us/power-bi/
